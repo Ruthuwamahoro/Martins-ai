@@ -14,7 +14,7 @@ import { clearJSON, loadJSON, saveJSON } from "./lib/storage"
 import type { Application, Essay, Outcome, Person, Profile, ReferenceStatus, Scholarship } from "./lib/types"
 import { uid } from "./lib/utils"
 
-const KEY = "ejo:v2"
+const KEY = "Martins:v2"
 
 interface Store {
   profile: Profile

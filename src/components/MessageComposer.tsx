@@ -16,7 +16,7 @@ interface Props {
 }
 
 /**
- * Ejo never sends email on someone's behalf. The message goes out from the
+ * Martins AI never sends email on someone's behalf. The message goes out from the
  * student's own address, in their own name, and they can change every word.
  * A reference request should feel like it came from a person, because it did.
  */

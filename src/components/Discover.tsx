@@ -75,7 +75,7 @@ export function Discover({ onApply, initialTab = "all" }: { onApply: (id: string
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6">
       <section className="mb-8 max-w-3xl">
         <h1 className="text-3xl font-bold sm:text-4xl">Funding for {profile.level === "Undergraduate" ? "your degree" : `your ${profile.level.toLowerCase()}`}, matched to you.</h1>
-        <p className="mt-2 text-muted-foreground">Ejo checks each scholarship's rules against your profile, so you know where you stand before you write a word.</p>
+        <p className="mt-2 text-muted-foreground">Martins AI checks each scholarship's rules against your profile, so you know where you stand before you write a word.</p>
 
         <form
           className="mt-5 flex flex-col gap-2 sm:flex-row"

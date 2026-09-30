@@ -186,7 +186,7 @@ export function ApplicationWorkspace({ id, initialStep = "why", onBack, onOpenWr
                 <CardTitle>{app.status === "drafting" ? "Ready to submit?" : "You've submitted this one"}</CardTitle>
                 <p className="text-sm text-muted-foreground">
                   {app.status === "drafting"
-                    ? "Ejo doesn't send your application. Submit it on the official portal, then come back and mark it done."
+                    ? "Martins AI doesn't send your application. Submit it on the official portal, then come back and mark it done."
                     : "Take a breath. Tell your referees it's in, and note when you expect to hear back."}
                 </p>
               </CardHeader>

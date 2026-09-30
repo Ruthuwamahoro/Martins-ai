@@ -20,7 +20,7 @@ export function Header({ view, setView, activeCount }: { view: View; setView: (v
           <span className="grid size-8 place-items-center rounded-lg bg-primary text-primary-foreground">
             <BookMarked className="size-4" />
           </span>
-          <span className="hidden font-display text-xl font-bold sm:inline">Ejo</span>
+          <span className="hidden font-display text-xl font-bold sm:inline">Martins AI</span>
         </button>
         <nav className="flex items-center gap-0.5 sm:gap-1" aria-label="Main">
           {items.map(({ id, label, icon: Icon }) => (

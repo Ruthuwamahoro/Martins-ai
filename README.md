@@ -1,6 +1,6 @@
-# Ejo: an AI scholarship finder that remembers there are people on both sides
+# Martins AI: an AI scholarship finder that remembers there are people on both sides
 
-*Ejo* means "tomorrow" in Kinyarwanda. This is a React + TypeScript + Tailwind + shadcn/ui app for students finding and applying to scholarships.
+This is a React + TypeScript + Tailwind + shadcn/ui app for students finding and applying to scholarships.
 
 ```bash
 npm install

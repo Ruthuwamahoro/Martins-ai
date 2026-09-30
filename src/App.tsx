@@ -77,7 +77,7 @@ interface Nav {
   discoverTab?: "all" | "new" | "saved"
 }
 
-const ENTERED_KEY = "ejo:entered"
+const ENTERED_KEY = "Martins AI:entered"
 
 // First-time visitors see the landing page. After they enter once, we send them
 // straight to their work. Visit  /#welcome  to see the landing page again.
