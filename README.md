@@ -35,4 +35,3 @@ npm run dev
 
 ## Notes
 - Scholarship data, the seeded essay, the two sample people, and the community tips are **samples** for the prototype. Verify scholarship details with providers, and replace the tips with real, consented stories.
-- Data is stored in the browser only. Add a backend and accounts before real users depend on it.
